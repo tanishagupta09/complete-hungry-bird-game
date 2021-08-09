@@ -1,0 +1,34 @@
+//Title of the game - 
+
+
+//Playing Character (PC) -
+bottle
+
+//Non-Playing Character (NPC) -
+dog
+
+//Goal of the player -
+feed the dog
+
+//Rules of the game (features, controls, arena) etc -
+by clicking the button new bottles would appear
+
+//Balance in the game (what feature makes game easy for player and what features make difficult for player) -
+
+
+
+//Game adaptivity (how game becomes difficult over time) -
+speed of the dog
+
+
+//Elements of chance (something happening randomly, by luck) -
+no. of bottles
+
+//Elements of skill -
+clicking the button
+
+//Immediate feedback to the player on how they are doing -
+note
+
+//Story of the game -
+we have to feed a dog
